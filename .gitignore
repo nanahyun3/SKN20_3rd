@@ -1,0 +1,11 @@
+.env
+data/ChromaDB_bge_m3
+data/ChromaDB_openai
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+/Training
